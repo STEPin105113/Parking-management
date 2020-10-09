@@ -1,4 +1,5 @@
 # Parking-management
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/34635d6cba4d40a5bdb81eea0cce63c7)](https://www.codacy.com/gh/STEPin105113/Parking-management/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=STEPin105113/Parking-management&amp;utm_campaign=Badge_Grade)
 ![C/C++ CI](https://github.com/STEPin105113/Parking-management/workflows/C/C++%20CI/badge.svg)
 ![cppcheck-action](https://github.com/STEPin105113/Parking-management/workflows/cppcheck-action/badge.svg)
 ![Unit testing](https://github.com/STEPin105113/Parking-management/workflows/Unit%20testing/badge.svg)
