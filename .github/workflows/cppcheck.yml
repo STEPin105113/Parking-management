@@ -1,4 +1,4 @@
-cppcheck.yml
+
 name: cppcheck-action
 on: [push]
 
