@@ -2,7 +2,7 @@
 
 int login(char user[10],char pass[10])
 {
-	int a=0,k;
+	int k;
     char uname[10]="user";
     char pword[10]="pass";
 
@@ -11,9 +11,9 @@ int login(char user[10],char pass[10])
 
     printf("\n  \xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb  LOGIN FIRST  \xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb\xdb  ");
     printf(" \n\n                       ENTER USERNAME:-");
-	scanf("%s", uname);
+	scanf("4%s", uname);
 	printf(" \n\n                       ENTER PASSWORD:-");
-	scanf("%s", pword);
+	scanf("4%s", pword);
 	/*while(i<10)
 	{
 	    pword[i]=getch();
